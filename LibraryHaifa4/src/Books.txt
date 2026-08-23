@@ -1,0 +1,6 @@
+B1,History,Alex,2010,PrintedBook,HISTORY,true,60.0,10.0
+LIBRARIAN,123,Ali
+B2,Java,Shadi,2012,PrintedBook,COMPUTERS,true,120.0,10.0
+LIBRARIAN,123,Ali
+B3,OOP,Hala,2018,EBook,SCIENCE,true,80.0,8.0
+LIBRARIAN,123,Ali

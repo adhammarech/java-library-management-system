@@ -1,0 +1,3 @@
+M10,Adham,Mreeh,Aljamal,Daliyat el carmel,3005609,0545461016
+M11,Maya,Bar,Street3,Haifa,33333,0503333333
+M12,Noa,Shahaf,Street4,Haifa,44444,0504444444

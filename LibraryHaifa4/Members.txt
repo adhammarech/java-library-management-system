@@ -1,0 +1,2 @@
+M1,Ali,Ahmad,Street1,Haifa,11111,0501111111
+M2,Dana,Cohen,Street2,Haifa,22222,0502222222
