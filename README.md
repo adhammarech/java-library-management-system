@@ -1,6 +1,10 @@
 # Java Library Management System
 
-Object-oriented library management system developed in Java as an academic OOP project.
+## Academic Project
+
+Developed as part of an Object-Oriented Programming course.
+
+**Final Grade: 100/100**
 
 ## Features
 
